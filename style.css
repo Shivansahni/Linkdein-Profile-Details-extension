@@ -1,0 +1,14 @@
+body {
+  background: #f1f5f9;
+  width: 300px;
+  height: 100px;
+  text-align: center;
+}
+.profileshow {
+  width: 200px;
+  outline: none;
+  border: none;
+  border-radius: 2px;
+  padding: 5px;
+  cursor: pointer;
+}
